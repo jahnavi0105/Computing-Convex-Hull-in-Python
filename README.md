@@ -3,8 +3,8 @@ This repo is about drawing images using convex hull algorithm which is been impl
 Basically convex hull algorithm is technique that finds the object outer functions  via pixels and connects them.
 
 # Modules required
-cv2
-numpy
+
+cv2,numpy
 
 
 
