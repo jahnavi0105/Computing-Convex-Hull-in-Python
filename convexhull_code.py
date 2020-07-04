@@ -61,7 +61,6 @@ while( capture.isOpened() ) :  #untill the video is running the following code i
         break                   #infite loop will be breaked
 
 
-# In[ ]:
 
 
 
